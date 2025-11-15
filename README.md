@@ -1,16 +1,42 @@
-# React + Vite
+🌍 Travel Planner
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Türkiye’deki tüm şehirler için akıllı gezi planlama uygulaması
 
-Currently, two official plugins are available:
+Netlify Canlı Yayın:
+👉 https://travel-planner-gamze.netlify.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📱 Özellikler
 
-## React Compiler
+🇹🇷 81 il için detaylı gezilecek yer veri seti
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🧭 Harita üzerinde keşif (Yakın yerleri göster)
 
-## Expanding the ESLint configuration
+🧩 Seçilen mekanlardan otomatik günlük plan oluşturma
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+❤️ İlgi alanı filtreleri: Tarih, Doğa, Yeme-İçme, Alışveriş, Manzara, Plaj
+
+🌐 PWA desteği → Telefonlara uygulama gibi yüklenebilir
+
+⚡ React + Vite ile ultra hızlı performans
+
+🎨 TailwindCSS ile modern arayüz
+
+📍 Google Maps / Leaflet destekli yer gösterimi
+
+🔍 Akıllı plan oluşturma algoritması
+
+## Ekran Görüntüsü
+
+<img width="1847" height="852" alt="Travel_Planner" src="https://github.com/user-attachments/assets/2a300431-f8c0-46d2-993e-55c998bf6a80" />
+
+🛠️ Kullanılan Teknolojiler
+
+React (Vite)
+
+TailwindCSS
+
+PWA Manifest + Service Worker
+
+Google Maps / Leaflet
+
+Netlify Deployment
