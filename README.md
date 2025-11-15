@@ -1,3 +1,5 @@
+## Biraz zorlandım ama keyifli bir uygulama oldu :) Masaüzeri uygulaması ve mobil uygulama olarak kullanılabilmektedir.
+
 🌍 Travel Planner
 
 Türkiye’deki tüm şehirler için akıllı gezi planlama uygulaması
