@@ -1,0 +1,35 @@
+{
+  "cities": [
+    { "id": "ist", "name": "İstanbul", "country": "TR" },
+    { "id": "kyr", "name": "Girne",  "country": "CY" }
+  ],
+  "places": [
+    { "id": "1", "cityId": "ist", "name": "Ayasofya", "category": "history", "avgVisitMins": 90,  "cost": 0   },
+    { "id": "2", "cityId": "ist", "name": "Topkapı Sarayı","category": "history","avgVisitMins": 120,"cost": 500 },
+    { "id": "3", "cityId": "ist", "name": "Karaköy Lokantası","category":"food","avgVisitMins":75,"cost":400 }
+  ]
+}
+{
+  "cities": [
+    { "id": "ist", "name": "İstanbul", "country": "TR" },
+    { "id": "ank", "name": "Ankara",  "country": "TR" },
+    { "id": "izm", "name": "İzmir",   "country": "TR" }
+  ],
+  "places": [
+    /* İstanbul */
+    { "id": "ist1", "cityId": "ist", "name": "Ayasofya",        "mustSee": true,  "desc": "Bizans ve Osmanlı mirası." },
+    { "id": "ist2", "cityId": "ist", "name": "Topkapı Sarayı",  "mustSee": true,  "desc": "Osmanlı sarayı ve kutsal emanetler." },
+    { "id": "ist3", "cityId": "ist", "name": "Galata Kulesi",   "mustSee": true,  "desc": "Şehir manzarası." },
+    { "id": "ist4", "cityId": "ist", "name": "Moda Sahil",      "mustSee": false, "desc": "Yürüyüş ve gün batımı." },
+
+    /* Ankara */
+    { "id": "ank1", "cityId": "ank", "name": "Anıtkabir",       "mustSee": true,  "desc": "Atatürk’ün mozolesi." },
+    { "id": "ank2", "cityId": "ank", "name": "Anadolu Medeniyetleri Müzesi", "mustSee": true, "desc": "Zengin arkeoloji koleksiyonu." },
+    { "id": "ank3", "cityId": "ank", "name": "Hamamönü",        "mustSee": false, "desc": "Tarihi sokaklar, kahve molası." },
+
+    /* İzmir */
+    { "id": "izm1", "cityId": "izm", "name": "Saat Kulesi",     "mustSee": true,  "desc": "İzmir’in simgesi." },
+    { "id": "izm2", "cityId": "izm", "name": "Kemeraltı",       "mustSee": true,  "desc": "Çarşı ve yöresel lezzetler." },
+    { "id": "izm3", "cityId": "izm", "name": "Kordon",          "mustSee": false, "desc": "Sahil yürüyüşü." }
+  ]
+}
